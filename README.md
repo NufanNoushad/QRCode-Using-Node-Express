@@ -1,4 +1,4 @@
-This was a QR Code generator web app I built two years ago during my Backend foundational course I did.
+When a user accesses the home page, they see a form where they can enter text. Upon submitting the form, the application generates a QR code from the entered text and displays it on a separate page. The console also logs the entered text. 
 
 This is a simple web application built with **Node.js and Express.js framework** that allows users to generate QR codes from text input. 
 
