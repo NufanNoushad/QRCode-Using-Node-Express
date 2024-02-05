@@ -8,7 +8,7 @@ This is a simple web application built with **Node.js and Express.js framework**
 git clone https://github.com/your-username/QRCodeGenerator.git
 
 **Navigate to the Project Directory:**
-cd QRCodeGenerator
+cd QRCode-Using-Node-Express
 
 **Install dependencies**
 npm install
