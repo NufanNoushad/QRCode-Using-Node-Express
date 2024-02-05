@@ -14,7 +14,7 @@ cd QRCodeGenerator
 npm install
 
 **Run the app**
-node app.js
+node script.js
 
 **To access the application:**
 Open your web browser and go to http://localhost:3000.
